@@ -33,11 +33,8 @@ To work for organization which provides me the best opportunity to improve my sk
 Databases:MySql , h2.
 </br>
 **Web/Enterprise Technologies :** AOP, Spring Boot 2.2, Spring MVC 5, Thymleaf 3, JPA, Rest Service.
-
 </br>
-
 **Web / Application Server :** Tomcat 9, Tomee 8.
-
 </br>
 
 **Dev Tools :** IDE(Eclipse, VSCode, Sublime Text), Github(Version Control System), Maven (Build Tools)

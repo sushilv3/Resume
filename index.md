@@ -5,9 +5,9 @@
 **Address :**  Ho.No. E-602,         Sector-I, LDA Colony Kanpur Road Lucknow,Uttar Pradesh.       
 **Pin :** 226012                                
 **Phone : +91** - 9044477586
-</br>
+
 **Email:** sushilv3rma@gmail.com 
-</br>
+
 **Github :** https://github.com/sushilv3
 
 #### Objective -
@@ -31,11 +31,11 @@ To work for organization which provides me the best opportunity to improve my sk
 **Operating Systems :** Linux(Ubuntu).</br>
 **Programming Languages :** Java 8, Php 7.2 (Basic), JavaScript
 Databases:MySql , h2.
-</br>
+
 **Web/Enterprise Technologies :** AOP, Spring Boot 2.2, Spring MVC 5, Thymleaf 3, JPA, Rest Service.
-</br>
+
 **Web / Application Server :** Tomcat 9, Tomee 8.
-</br>
+
 
 **Dev Tools :** IDE(Eclipse, VSCode, Sublime Text), Github(Version Control System), Maven (Build Tools)
 

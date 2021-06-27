@@ -29,6 +29,7 @@ To work for organization which provides me the best opportunity to improve my sk
 **Technical Skills** 
       
 **Operating Systems :** Linux(Ubuntu).
+
 **Programming Languages :** Java 8, Php 7.2 (Basic), JavaScript
 Databases:MySql , h2.
 

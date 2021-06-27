@@ -1,5 +1,4 @@
 
-### Resume
 
 #### Sushil Kumar Verma
 **Address :**  Ho.No. E-602,         Sector-I, LDA Colony Kanpur Road Lucknow,Uttar Pradesh.       

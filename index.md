@@ -28,7 +28,7 @@ To work for organization which provides me the best opportunity to improve my sk
 
 **Technical Skills** 
       
-**Operating Systems :** Linux(Ubuntu).</br>
+**Operating Systems :** Linux(Ubuntu).
 **Programming Languages :** Java 8, Php 7.2 (Basic), JavaScript
 Databases:MySql , h2.
 
@@ -39,7 +39,7 @@ Databases:MySql , h2.
 
 **Dev Tools :** IDE(Eclipse, VSCode, Sublime Text), Github(Version Control System), Maven (Build Tools)
 
-#### Project Details</p>
+#### Project Details
 
 **Project Name :** truSchoolCare
 
@@ -84,5 +84,5 @@ truSchoolCare is a multi interconnected module which automates all operations (A
 
 **Date :**
 
-**Place :** lucknow   &emsp;&emsp;&emsp;&emsp;                                                          (Sushil Kr Verma)
+**Place :** lucknow   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                                                          (Sushil Kr Verma)
 

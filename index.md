@@ -1,8 +1,6 @@
 
 
-#### Sushil Kumar Verma
-**Address :**  Ho.No. E-602,         Sector-I, LDA Colony Kanpur Road Lucknow,Uttar Pradesh.       
-**Pin :** 226012                                
+#### Sushil Kumar Verma                              
 **Phone : +91** - 9044477586
 
 **Email:** sushilv3rma@gmail.com 
